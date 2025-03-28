@@ -1,0 +1,11 @@
+// A class can have public,default,final,abstract,strictfp access modifiers.
+//An inner class can have all the access modifiers of a class and static,private,protected.
+//a method can have public,private,default,protected,static,final,abstract,strictfp,synchronized,native.
+//a variables can have public,private,protected,default,static,final,transient,volatile.
+//blocks can have only static and default,synchronized access modifiers.
+//outer interfaces can have public,default,abstract,strictfp.
+//an inner interfaces can have all the access modifiers of an interface and private,protected,static,
+//Enum by default has final keyword but if we mention the keyword we get error.
+//Emum can have public,default,strictfp
+//an inner enum can have all the access modifiers of enum and static, protected and private.
+//constructors can have only public,default,protected and private.
